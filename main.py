@@ -7,6 +7,3 @@ y = 10
 z = 4
 result = x * y * z
 print(result)
-
-
-
