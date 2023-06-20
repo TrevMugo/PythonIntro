@@ -7,3 +7,6 @@ print(sum)
 
 average=sum/3
 print(average)
+
+name="John Lark"
+print(name)
